@@ -1,0 +1,61 @@
+\documentclass[journal]{IEEEtran} % use the `journal` option for ITherm conference style
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+% \usepackage{caption}
+\usepackage{float}
+% \usepackage{nicefrac}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{nicefrac}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{algpseudocode}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\begin{document}
+
+\title{Motion Planning\\
+}
+
+\author{%%%% author names
+    \IEEEauthorblockN{Sandeep Chintada}% first author
+    \IEEEauthorblockA{A59015527}
+    \IEEEauthorblockA{dchintada@ucsd.edu}
+}
+
+\maketitle
+
+\begin{abstract}
+    This project aims to compare the performance of search-based and sampling-based motion planning algorithms in 3D Euclidean space. The project will
+     involve testing the algorithms in a range of challenging scenarios to assess their effectiveness in handling various types of obstacles.
+    
+\end{abstract}
+
+\begin{IEEEkeywords}
+   Motion Planning, $A^{\ast}$, RRT, Deterministic Shortest Path
+\end{IEEEkeywords}
+\section{Introduction}
+Path planning or motion planning is essential in robotics to determine the optimal path for achieving objectives or reaching target locations. 
+It involves generating a sequence of safe and efficient actions to navigate the environment. For instance, self-driving cars use 
+path planning to find the best route, while surgical robots rely on it to perform tasks safely and effectively. 
+
+In Project 1, we employed a dynamic programming approach to devise a path to the goal while adhering to the specified constraints. 
+However, it became evident that as the constraints increased, the state space expanded exponentially, rendering the planning process intractable 
+in complex environments. This was primarily due to the fact that the dynamic programming approach required computing the optimal path from every 
+individual location to the goal.
+
+To address this challenge, alternative approaches were formulated and the efficacy of search-based motion planning algorithms, 
+such as A*, and sampling-based motion planning algorithms, like RRT was discovered.These algorithms offer a viable solution with significantly reduced computational complexity. 
+
+The $A^\ast$ algorithm stands out for its capability in efficiently exploring discrete state spaces, making it particularly well suited for autonomous navigation and in other
+applications where a precise path must be planned, for example, in surgical robotics. 
+Sampling-based motion planning algorithms, such as RRT, are effective in high-dimensional configuration spaces with obstacles. 
+This method of sampling enables the robot/agent to rapidly explore uncharted regions of the configuration space, which is essential
+for navigation in complex and dynamic environments. 
+ 
+
+\end{document}

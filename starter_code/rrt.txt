@@ -1,0 +1,63 @@
+Running single cube test...
+
+Can connect to goal
+Planning took: 0.16689300537109375 sec.
+
+Success: True
+Path length: 14
+
+
+Running flappy bird test...
+
+Can connect to goal
+Planning took: 0.40828394889831543 sec.
+
+Success: False
+Path length: 58
+
+
+Running monza test...
+
+Can connect to goal
+Planning took: 22.806358098983765 sec.
+
+Success: False
+Path length: 134
+
+
+Running window test...
+
+Can connect to goal
+Planning took: 0.2463691234588623 sec.
+
+Success: False
+Path length: 37
+
+
+Running tower test...
+
+Can connect to goal
+Planning took: 4.673341751098633 sec.
+
+Success: False
+Path length: 52
+
+
+Running room test...
+
+Can connect to goal
+Planning took: 1.1882820129394531 sec.
+
+Success: True
+Path length: 25
+
+
+Running maze test...
+
+Can connect to goal
+Planning took: 13.530973196029663 sec.
+
+Success: False
+Path length: 131
+
+

@@ -1,0 +1,182 @@
+Running single cube test...
+
+518
+Planning took: 0.02171802520751953 sec.
+
+Success: False
+Path length: 7
+
+
+Running flappy bird test...
+
+2666
+Planning took: 0.5802831649780273 sec.
+
+Success: True
+Path length: 25
+
+
+Running monza test...
+
+3049
+Planning took: 0.6176550388336182 sec.
+
+Success: False
+Path length: 76
+
+
+Running window test...
+
+8764
+Planning took: 2.034991979598999 sec.
+
+Success: False
+Path length: 26
+
+
+Running tower test...
+
+2284
+Planning took: 1.7285761833190918 sec.
+
+Success: True
+Path length: 29
+
+
+Running room test...
+
+562
+Planning took: 0.18110990524291992 sec.
+
+Success: True
+Path length: 12
+
+
+Running maze test...
+
+12090
+Planning took: 6.84328293800354 sec.
+
+Success: True
+Path length: 72
+
+
+Running single cube test...
+
+Planning took: 0.003529071807861328 sec.
+
+Success: False
+Path length: 7
+
+
+Running flappy bird test...
+
+Planning took: 0.10699701309204102 sec.
+
+Success: True
+Path length: 31
+
+
+Running monza test...
+
+Planning took: 0.5093412399291992 sec.
+
+Success: False
+Path length: 77
+
+
+Running window test...
+
+Planning took: 0.021165132522583008 sec.
+
+Success: False
+Path length: 26
+
+
+Running tower test...
+
+Planning took: 0.1723802089691162 sec.
+
+Success: True
+Path length: 36
+
+
+Running room test...
+
+Planning took: 0.03966069221496582 sec.
+
+Success: True
+Path length: 13
+
+
+Running maze test...
+
+Planning took: 5.039861679077148 sec.
+
+Success: True
+Path length: 74
+
+
+Running single cube test...
+
+192
+Planning took: 0.0035152435302734375 sec.
+
+Success: False
+Path length: 7
+
+
+Running flappy bird test...
+
+1020
+Planning took: 0.10689306259155273 sec.
+
+Success: True
+Path length: 31
+
+
+Running monza test...
+
+2479
+Planning took: 0.5086159706115723 sec.
+
+Success: False
+Path length: 77
+
+
+Running window test...
+
+517
+Planning took: 0.021206140518188477 sec.
+
+Success: False
+Path length: 26
+
+
+Running tower test...
+
+534
+Planning took: 0.17177295684814453 sec.
+
+Success: True
+Path length: 36
+
+
+Running room test...
+
+277
+Planning took: 0.039656877517700195 sec.
+
+Success: True
+Path length: 13
+
+
+Running maze test...
+
+8561
+Planning took: 5.033667087554932 sec.
+
+Success: True
+Path length: 74
+
+

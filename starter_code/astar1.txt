@@ -1,0 +1,63 @@
+Running single cube test...
+
+5331
+Planning took: 0.3152599334716797 sec.
+
+Success: True
+Path length: 7
+
+
+Running flappy bird test...
+
+415342
+Planning took: 105.59523892402649 sec.
+
+Success: True
+Path length: 25
+
+
+Running monza test...
+
+1458365
+Planning took: 270.3169310092926 sec.
+
+Success: True
+Path length: 75
+
+
+Running window test...
+
+2156312
+Planning took: 722.0294547080994 sec.
+
+Success: True
+Path length: 26
+
+
+Running tower test...
+
+409713
+Planning took: 342.3761200904846 sec.
+
+Success: True
+Path length: 27
+
+
+Running room test...
+
+43453
+Planning took: 21.04159379005432 sec.
+
+Success: True
+Path length: 11
+
+
+Running maze test...
+
+20992810
+Planning took: 15681.53011918068 sec.
+
+Success: True
+Path length: 73
+
+
