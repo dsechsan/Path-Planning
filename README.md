@@ -1,4 +1,4 @@
-# ECE276B PR2 SP23
+# Path Planning in 3D environments
 
 ## Overview
 In this assignment, you will implement and compare the performance of search-based and sampling-based motion planning algorithms on several 3-D environments.
