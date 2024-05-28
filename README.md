@@ -21,5 +21,7 @@ This folder contains 7 test environments described via a rectangular outer bound
 ### 6. Results
 The results of our algorithms are present in the directories with the name of the environment, i.e., cube, flappybird, maze etc... They contain both the RRT and A* results.
 
+<img src="https://github.com/dsechsan/Path-Planning/blob/5438cbd8d1b75516d1b4f2c219be495078c67156/starter_code/maze/maze5.png" alt="Maze A*" width="400" height="400">
+<img src="https://github.com/dsechsan/Path-Planning/blob/5438cbd8d1b75516d1b4f2c219be495078c67156/starter_code/maze/mazerrt.png" alt="Maze RRT" width="400" height="400">
 
 
